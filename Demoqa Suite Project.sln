@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demoqa Suite Project", "Demoqa Suite Project\Demoqa Suite Project.csproj", "{F8CBC84C-84E6-46AA-8D8D-FC45F73DF146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8CBC84C-84E6-46AA-8D8D-FC45F73DF146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8CBC84C-84E6-46AA-8D8D-FC45F73DF146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8CBC84C-84E6-46AA-8D8D-FC45F73DF146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8CBC84C-84E6-46AA-8D8D-FC45F73DF146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C07F7E8-066F-468B-AC19-CDC2335E27FD}
+	EndGlobalSection
+EndGlobal
